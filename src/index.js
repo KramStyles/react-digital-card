@@ -3,7 +3,7 @@ import root from 'react-dom'
 
 function App() {
     return (
-        <h1>Hello and Welcome</h1>
+        <h1>Hello and Welcome <i className="fab fa-facebook"></i></h1>
     )
 }
 
