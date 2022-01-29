@@ -1,7 +1,17 @@
 import react from "react"
 
-export default function App(){
+// Import externals
+import './App.css'
+import Body from './Components/Body'
+import Footer from './Components/Footer'
+
+export default function App() {
     return (
-        <h1>Hello and Welcome <i className="fab fa-facebook"></i></h1>
+        <main>
+            <div className="container">
+                <Body />
+                <Footer />
+            </div>
+        </main>
     )
 }
