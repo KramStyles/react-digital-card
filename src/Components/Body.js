@@ -16,7 +16,7 @@ function Body() {
                 </div>
                 <div className="notes">
                     <h4>About</h4>
-                    <small>I am a frontend developer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and the best practices and am always looking for new things to learn</small>
+                    <small>I am a Software Engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and the best practices, and am always looking for new things to learn. I also love coding</small>
                 </div>
                 <div className="notes">
                     <h4>Interests</h4>
