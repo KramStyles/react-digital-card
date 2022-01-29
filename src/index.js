@@ -1,10 +1,10 @@
+// Import Dependencies
 import React from 'react'
 import root from 'react-dom'
 
-function App() {
-    return (
-        <h1>Hello and Welcome <i className="fab fa-facebook"></i></h1>
-    )
-}
+// Import external components
+import './App.css'
+import App from "./App"
+
 
 root.render(<App />, document.getElementById('root'))
