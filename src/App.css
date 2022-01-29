@@ -51,4 +51,15 @@ footer{
     position: absolute;
     bottom: 0;
     width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+footer a{
+    color: #918E9B;
+    text-decoration: none;
+    font-size: 1.6em;
+    margin: 0 10px;
 }
