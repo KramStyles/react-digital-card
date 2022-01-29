@@ -90,7 +90,7 @@ footer a:hover{
 .links{
     display: flex;
     justify-content: space-between;
-    margin: 13px 0;
+    margin: 25px 0;
 }
 .links a{
     padding: 7px 13px;
@@ -110,7 +110,7 @@ footer a:hover{
 }
 
 .notes{
-    margin: 15px 0;
+    margin: 25px 0;
 
 }
 
