@@ -117,5 +117,6 @@ footer a:hover{
 @media screen and (max-width: 500px){
     .container{
         width: 90%;
+        margin: 50px auto;
     }
 }
