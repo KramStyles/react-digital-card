@@ -49,7 +49,7 @@ small a{
 
 .header_img{
     height: 250px;
-    background-image: url("./Components/Images/profile.png");
+    background-image: url("./Components/Images/profile.jpg");
     background-size: cover;
     background-position: top center;
     border-top-left-radius: var(--radius);
