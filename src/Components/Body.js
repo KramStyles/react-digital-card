@@ -12,7 +12,7 @@ function Body() {
                 </div>
                 <div className="links">
                     <a href="mailto:kramstyles@outlook.com"><i className="fa fa-envelope"> </i> Email</a>
-                    <a href="https://linkedin.com/eke-mark"><i className="fab fa-linkedin"> </i> LinkedIn</a>
+                    <a href="https://linkedin.com/in/eke-mark"><i className="fab fa-linkedin"> </i> LinkedIn</a>
                 </div>
                 <div className="notes">
                     <h4>About</h4>
