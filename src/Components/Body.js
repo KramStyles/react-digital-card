@@ -3,9 +3,17 @@ import React from "react"
 function Body() {
     return (
         <div>
+            <snowfall>
+                <snowflake><span>❄</span>️️</snowflake>
+                <snowflake><span>🍂</span>️️</snowflake>
+                <snowflake><span>💝</span> ️️</snowflake>
+                <snowflake><span>🌟</span>️</snowflake>
+            </snowfall>
+
+
             <div className="header_img"></div>
             <div className="content">
-                <div style = {{textAlign: 'center'}}>
+                <div style={{ textAlign: 'center' }}>
                     <h1>Just Michael</h1>
                     <p style={{ color: 'dodgerblue', fontWeight: 'bold', fontSize: '70%', margin: "5px 0 0" }}>YOUR PYTHON GUY!</p>
                     <small><a href="mailto:kramstyles@outlook.com">Official: kramstyles@outlook.com</a></small>
