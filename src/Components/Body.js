@@ -40,6 +40,7 @@ function Body() {
                 <snowflake><img src="./snow/react1.png" alt="" srcset="" /></snowflake>
                 <snowflake><img src="./snow/wordpress.png" alt="" srcset="" /></snowflake>
                 <snowflake><img src="./snow/wordpress1.png" alt="" srcset="" /></snowflake>
+                <div className="desk">
                 <snowflake><img src="./snow/angularjs.png" alt="" srcset="" /></snowflake>
                 <snowflake><img src="./snow/angularjs1.png" alt="" srcset="" /></snowflake>
                 <snowflake><img src="./snow/c.png" alt="" srcset="" /></snowflake>
@@ -88,6 +89,7 @@ function Body() {
                 <snowflake><img src="./snow/react1.png" alt="" srcset="" /></snowflake>
                 <snowflake><img src="./snow/wordpress.png" alt="" srcset="" /></snowflake>
                 <snowflake><img src="./snow/wordpress1.png" alt="" srcset="" /></snowflake>
+                </div>
             </snowfall>
 
 
