@@ -2,6 +2,7 @@ import react from "react"
 
 // Import externals
 import './App.css'
+import './snow.css'
 import Body from './Components/Body'
 import Footer from './Components/Footer'
 
