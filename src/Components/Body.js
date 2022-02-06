@@ -5,9 +5,9 @@ function Body() {
         <div>
             <snowfall>
                 <snowflake><span>❄</span>️️</snowflake>
-                <snowflake><span>🍂</span>️️</snowflake>
+                {/* <snowflake><span>🍂</span>️️</snowflake>
                 <snowflake><span>💝</span> ️️</snowflake>
-                <snowflake><span>🌟</span>️</snowflake>
+                <snowflake><span>🌟</span>️</snowflake> */}
                 <snowflake><img src="./snow/angularjs.png" alt="" srcset="" /></snowflake>
                 <snowflake><img src="./snow/angularjs1.png" alt="" srcset="" /></snowflake>
                 <snowflake><img src="./snow/c.png" alt="" srcset="" /></snowflake>
