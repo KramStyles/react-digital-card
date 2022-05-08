@@ -101,8 +101,8 @@ function Body() {
                     <small><a href="mailto:kramstyles@outlook.com">Official: kramstyles@outlook.com</a></small>
                 </div>
                 <div className="links">
-                    <a href="mailto:kramstyles@outlook.com"><i className="fa fa-envelope"> </i> Email</a>
-                    <a href="mailto:kramstyles@outlook.com"><i className="fa fa-file-pdf"> </i> Resume</a>
+                    <a href="https://markeke.dev"><i className="fa fa-globe-africa"> </i> Visit</a>
+                    <a href="./Mark_Eke_CV.pdf"><i className="fa fa-file-pdf"> </i> Resume</a>
                     <a href="https://linkedin.com/in/eke-mark"><i className="fab fa-linkedin"> </i> LinkedIn</a>
                     
                 </div>
@@ -112,7 +112,7 @@ function Body() {
                 </div>
                 <div className="notes">
                     <h4>Interests</h4>
-                    <small>Food expert. Music scholar, Reader, Code fanatic, Junk food, Pop Culture, Anime lover, Coffee analysist. And I love women. Hello. My God </small>
+                    <small>Food expert. Music scholar, Reader, Rainbow Language User, Code fanatic, Junk food, Pop Culture, Anime lover, Coffee analysist. And I love women. Hello! </small>
                 </div>
             </div>
         </div>
