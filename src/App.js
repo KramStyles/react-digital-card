@@ -1,5 +1,3 @@
-import react from "react"
-
 // Import externals
 import './App.css'
 import './snow.css'
